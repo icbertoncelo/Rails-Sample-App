@@ -1,0 +1,3 @@
+# README
+
+This project was developed based on Ruby on Rails Turorial Book. There are concepts such as login, authentication, ...
