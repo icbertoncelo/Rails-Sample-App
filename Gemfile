@@ -9,6 +9,8 @@ gem 'rails', '~> 5.2.3'
 gem 'jquery-rails'
 # Use bycrypt
 gem 'bcrypt',         '3.1.12'
+# Use Faker Gem
+gem 'faker',          '>=1.7.3'
 # Use Bootstrap
 gem 'bootstrap-sass', ">= 3.4.1"
 # Use sqlite3 as the database for Active Record
